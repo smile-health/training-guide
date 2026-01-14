@@ -2,6 +2,33 @@
 
 > ℹ️ Last updated: 14 Jan 2026
 
+## Table Of Content
+- [Introduction](#introduction)
+  - [Purpose of the Guide](#purpose-of-the-guide)
+  - [Who Should Use This Guide?](#who-should-use-this-guide?)
+  - [Prerequisites](#prerequisites)
+- [Getting Started with SMILE](#getting-started-with-SMILE)
+  - [Logging In](#logging-in)
+  - [Navigating the Homepage](#navigating-the-homepage)
+  - [Setting Up Your Profile](#setting-up-your-profile)
+- [Managing](#managing)
+  - [Create Order](#create-order)
+  - [Create Distribution Order](#create-distribution-order)
+  - [Create Discard Transaction](#create-discard-transaction)
+  - [Create Last Mile Transaction](#create-last-mile-transaction)
+- [Using Decision Support & Alerts](#using-decision-support-&-alerts)
+  - [Automated Notifications](#automated-notifications)
+  - [Managing Workflows & Approvals](#managing-workflows-&-approvals)
+- [Reporting & Compliance](#reporting-&-compliance)
+  - [Generating Reports](#generating-reports)
+  - [Data Privacy & Security](#data-privacy-&-security)
+- [Troubleshooting & Support](#troubleshooting-&-support)
+  - [Common Issues & Solutions](#common-issues-&-solutions)
+  - [Getting Help](#getting-help)
+- [Training & Continuous Learning](#training-&-continuous-learning)
+
+---
+
 ## Introduction
 This training guide is designed to help users effectively utilize the **SMILE** platform by 
 providing step-by-step instructions for its adoption and functionality. It outlines prerequisites 
@@ -60,7 +87,7 @@ On top of the screen, you will see the Navbar, which provides quick access to:
 ---
 
 ## Managing [Core Functionality]
-### How to View the Order List and Create Order
+### Create Order
 To perform this feature, follow these steps:
 1. Log in to the SMILE system;
 2. Select the desired Program with a hierarchical material configuration;
@@ -84,7 +111,7 @@ To perform this feature, follow these steps:
 21. Clicks Yes button on pop-up confirmation - this will create new order.
 
 
-### How to View the Order List and Create Distribution
+### Create Distribution Order
 To perform this feature, follow these steps:
 1. Log in to the SMILE system;
 2. Select the desired Program with a hierarchical material configuration;
@@ -108,7 +135,7 @@ To perform this feature, follow these steps:
 20. Clicks Save button - this will display a pop-up confirmation;
 21. Clicks Yes button on pop-up confirmation - this will create new order.
 
-### How to View the Transaction List and Create Discard Transaction
+### Create Discard Transaction
 To perform this feature, follow these steps:
 1. Log in to the SMILE system;
 2. Select the desired Program with a hierarchical material configuration;
@@ -125,7 +152,7 @@ To perform this feature, follow these steps:
 13. Fill in the required fields
 14. Clicks Send - this will create new transaction.
 
-### How to View the Transaction List and Create Last Mile Transaction
+### Create Last Mile Transaction
 To perform this feature, follow these steps:
 1. Log in to the SMILE system;
 2. Select the desired Program with a hierarchical material configuration;
@@ -184,8 +211,6 @@ To perform this feature, follow these steps:
 | Unable to log in | Reset password or contact system admin |
 | Feature not responding | Ensure the app is updated to the latest version |
 | Missing data | Check the synchronization status or reload the page |
-
-
 
 ### Getting Help
 For further support, contact:
