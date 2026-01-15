@@ -2,9 +2,8 @@
 
 > ℹ️ Last updated: 14 Jan 2026
 ## About
-This document purpose to provide training guide provides users with step-by-step instructions on how to use **SMILE** 
-effectively. It is designed to ensure the smooth adoption of the platform and help users 
-maximize its functionality in accordance with **best practices and industry standards**.
+This training guide provides users with step-by-step instructions for using **SMILE** effectively. 
+It is designed to ensure the smooth adoption of the platform and to help users maximize its functionality.
 
 ## Table Of Content
 - [Introduction](#introduction)
