@@ -5,6 +5,8 @@
 This training guide provides users with step-by-step instructions for using **SMILE** effectively. 
 It is designed to ensure the smooth adoption of the platform and to help users maximize its functionality.
 
+---
+
 ## Table Of Content
 - [Introduction](#introduction)
   - [Purpose of the Guide](#purpose-of-the-guide)
